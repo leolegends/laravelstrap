@@ -4,22 +4,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="{{ asset('/css/animate.css') }}" rel="stylesheet">
-        <link rel="stylesheet" href="{{asset('/css/font-awesome.min.css')}}">
+        <link href="{{ asset('/material_css/animate.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{asset('/material_css/font-awesome.min.css')}}">
         <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
-        <link href="{{ asset('/css/jquery-toast.css') }}" rel="stylesheet">
+        <link href="{{ asset('/material_css/jquery-toast.css') }}" rel="stylesheet">
 
-        <link href="{{ asset('/css/animate.css') }}" rel="stylesheet">
-        <link rel="stylesheet" href="{{asset('/css/font-awesome.min.css')}}">
+        <link href="{{ asset('/material_css/animate.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{asset('/material_css/font-awesome.min.css')}}">
         <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('/material_css/material.min.css') }}" rel="stylesheet">
 
        <!-- tour personalizado -->
 
-    <link rel="stylesheet" href="{{ asset('css/enjoyhint.css') }}">
+    <link rel="stylesheet" href="{{ asset('material_css/enjoyhint.css') }}">
 
 
-        <link rel="stylesheet" href="{{ asset('css/style4.css') }}">
+        <link rel="stylesheet" href="{{ asset('material_css/style4.css') }}">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
