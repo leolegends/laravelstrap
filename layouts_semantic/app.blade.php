@@ -10,6 +10,7 @@
         <link href="{{ asset('/material_css/animate.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="{{asset('/material_css/font-awesome.min.css')}}">
         <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+        <link href="{{ asset('/material_css/UI/icon.min.css') }}" rel="stylesheet">
         <link href="{{ asset('/material_css/semantic.min.css') }}" rel="stylesheet">
 
        <!-- tour personalizado -->
